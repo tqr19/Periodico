@@ -1,0 +1,19 @@
+article {
+    margin-bottom: 100px;
+    padding: 10px;
+    text-align: justify;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:forestgreen;
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    background-color: bisque;
+    font-size:larger;
+}
